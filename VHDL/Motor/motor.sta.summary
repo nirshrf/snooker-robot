@@ -1,0 +1,425 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'gclk'
+Slack : -10.692
+TNS   : -1030.292
+
+Type  : Slow 1200mV 85C Model Setup 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : -6.665
+TNS   : -159.946
+
+Type  : Slow 1200mV 85C Model Setup 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : -6.640
+TNS   : -158.591
+
+Type  : Slow 1200mV 85C Model Setup 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : -6.602
+TNS   : -175.719
+
+Type  : Slow 1200mV 85C Model Setup 'echo_block:Uecho0|output[0]'
+Slack : -5.562
+TNS   : -89.796
+
+Type  : Slow 1200mV 85C Model Setup 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -3.342
+TNS   : -262.463
+
+Type  : Slow 1200mV 85C Model Setup 'rst'
+Slack : -0.900
+TNS   : -0.900
+
+Type  : Slow 1200mV 85C Model Setup 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 0.081
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Setup 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 0.179
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'echo_block:Uecho0|output[0]'
+Slack : -7.284
+TNS   : -172.654
+
+Type  : Slow 1200mV 85C Model Hold 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : -2.262
+TNS   : -33.293
+
+Type  : Slow 1200mV 85C Model Hold 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : -1.773
+TNS   : -28.386
+
+Type  : Slow 1200mV 85C Model Hold 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : -1.323
+TNS   : -17.196
+
+Type  : Slow 1200mV 85C Model Hold 'gclk'
+Slack : -0.181
+TNS   : -0.263
+
+Type  : Slow 1200mV 85C Model Hold 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -0.134
+TNS   : -0.255
+
+Type  : Slow 1200mV 85C Model Hold 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 0.051
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 0.065
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Hold 'rst'
+Slack : 0.677
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Recovery 'top:Utop|divider:clkUnit|csCLOC'
+Slack : -1.597
+TNS   : -1.597
+
+Type  : Slow 1200mV 85C Model Recovery 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : -1.451
+TNS   : -1.451
+
+Type  : Slow 1200mV 85C Model Recovery 'gclk'
+Slack : -0.576
+TNS   : -19.255
+
+Type  : Slow 1200mV 85C Model Recovery 'top:Utop|divider:clkUnit|SsendClk'
+Slack : 0.034
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'gclk'
+Slack : -0.401
+TNS   : -50.338
+
+Type  : Slow 1200mV 85C Model Removal 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -0.086
+TNS   : -7.542
+
+Type  : Slow 1200mV 85C Model Removal 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 1.491
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Removal 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 1.644
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'echo_block:Uecho0|output[0]'
+Slack : -3.480
+TNS   : -873.007
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'gclk'
+Slack : -3.000
+TNS   : -505.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'rst'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -2.174
+TNS   : -114.566
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|csCLOC'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : 0.402
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : 0.413
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : 0.436
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'gclk'
+Slack : -9.391
+TNS   : -870.521
+
+Type  : Slow 1200mV 0C Model Setup 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : -6.071
+TNS   : -143.568
+
+Type  : Slow 1200mV 0C Model Setup 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : -6.035
+TNS   : -144.584
+
+Type  : Slow 1200mV 0C Model Setup 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : -5.985
+TNS   : -158.886
+
+Type  : Slow 1200mV 0C Model Setup 'echo_block:Uecho0|output[0]'
+Slack : -5.114
+TNS   : -82.540
+
+Type  : Slow 1200mV 0C Model Setup 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -2.910
+TNS   : -227.360
+
+Type  : Slow 1200mV 0C Model Setup 'rst'
+Slack : -0.741
+TNS   : -0.741
+
+Type  : Slow 1200mV 0C Model Setup 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 0.133
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 0.215
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'echo_block:Uecho0|output[0]'
+Slack : -6.403
+TNS   : -150.726
+
+Type  : Slow 1200mV 0C Model Hold 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : -1.969
+TNS   : -29.098
+
+Type  : Slow 1200mV 0C Model Hold 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : -1.557
+TNS   : -24.787
+
+Type  : Slow 1200mV 0C Model Hold 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : -1.141
+TNS   : -14.654
+
+Type  : Slow 1200mV 0C Model Hold 'gclk'
+Slack : -0.161
+TNS   : -0.258
+
+Type  : Slow 1200mV 0C Model Hold 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -0.091
+TNS   : -0.165
+
+Type  : Slow 1200mV 0C Model Hold 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 0.036
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 0.039
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Hold 'rst'
+Slack : 0.647
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Recovery 'top:Utop|divider:clkUnit|csCLOC'
+Slack : -1.391
+TNS   : -1.391
+
+Type  : Slow 1200mV 0C Model Recovery 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : -1.250
+TNS   : -1.250
+
+Type  : Slow 1200mV 0C Model Recovery 'gclk'
+Slack : -0.447
+TNS   : -14.108
+
+Type  : Slow 1200mV 0C Model Recovery 'top:Utop|divider:clkUnit|SsendClk'
+Slack : 0.062
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'gclk'
+Slack : -0.396
+TNS   : -52.029
+
+Type  : Slow 1200mV 0C Model Removal 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -0.080
+TNS   : -6.933
+
+Type  : Slow 1200mV 0C Model Removal 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 1.319
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Removal 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 1.465
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'echo_block:Uecho0|output[0]'
+Slack : -3.010
+TNS   : -745.635
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'gclk'
+Slack : -3.000
+TNS   : -505.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'rst'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -2.174
+TNS   : -114.566
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|csCLOC'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : 0.407
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : 0.427
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : 0.442
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'gclk'
+Slack : -6.029
+TNS   : -370.612
+
+Type  : Fast 1200mV 0C Model Setup 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : -3.659
+TNS   : -93.867
+
+Type  : Fast 1200mV 0C Model Setup 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : -3.486
+TNS   : -84.053
+
+Type  : Fast 1200mV 0C Model Setup 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : -3.432
+TNS   : -85.226
+
+Type  : Fast 1200mV 0C Model Setup 'echo_block:Uecho0|output[0]'
+Slack : -2.999
+TNS   : -45.698
+
+Type  : Fast 1200mV 0C Model Setup 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -1.478
+TNS   : -101.204
+
+Type  : Fast 1200mV 0C Model Setup 'rst'
+Slack : -0.021
+TNS   : -0.021
+
+Type  : Fast 1200mV 0C Model Setup 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 0.269
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 0.338
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'echo_block:Uecho0|output[0]'
+Slack : -4.360
+TNS   : -103.651
+
+Type  : Fast 1200mV 0C Model Hold 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : -1.420
+TNS   : -21.097
+
+Type  : Fast 1200mV 0C Model Hold 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : -1.119
+TNS   : -18.455
+
+Type  : Fast 1200mV 0C Model Hold 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : -0.919
+TNS   : -12.725
+
+Type  : Fast 1200mV 0C Model Hold 'gclk'
+Slack : -0.223
+TNS   : -0.555
+
+Type  : Fast 1200mV 0C Model Hold 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -0.107
+TNS   : -0.144
+
+Type  : Fast 1200mV 0C Model Hold 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 0.015
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 0.027
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Hold 'rst'
+Slack : 0.310
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Recovery 'top:Utop|divider:clkUnit|csCLOC'
+Slack : -1.019
+TNS   : -1.019
+
+Type  : Fast 1200mV 0C Model Recovery 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : -0.948
+TNS   : -0.948
+
+Type  : Fast 1200mV 0C Model Recovery 'gclk'
+Slack : -0.448
+TNS   : -29.287
+
+Type  : Fast 1200mV 0C Model Recovery 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -0.045
+TNS   : -3.955
+
+Type  : Fast 1200mV 0C Model Removal 'gclk'
+Slack : -0.254
+TNS   : -33.014
+
+Type  : Fast 1200mV 0C Model Removal 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -0.072
+TNS   : -6.386
+
+Type  : Fast 1200mV 0C Model Removal 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : 0.896
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Removal 'top:Utop|divider:clkUnit|csCLOC'
+Slack : 0.969
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'gclk'
+Slack : -3.000
+TNS   : -515.462
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'rst'
+Slack : -3.000
+TNS   : -3.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'echo_block:Uecho0|output[0]'
+Slack : -1.810
+TNS   : -388.633
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|SsendClk'
+Slack : -1.000
+TNS   : -104.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|Srec_clk'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'top:Utop|divider:clkUnit|csCLOC'
+Slack : -1.000
+TNS   : -1.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.delayAlign'
+Slack : 0.319
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.afterMoveUntil'
+Slack : 0.360
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'movingStates:UmovingStates|current_state.zynq_stop'
+Slack : 0.375
+TNS   : 0.000
+
+------------------------------------------------------------

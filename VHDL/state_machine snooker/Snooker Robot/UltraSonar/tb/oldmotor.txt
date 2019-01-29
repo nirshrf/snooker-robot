@@ -1,0 +1,43 @@
+if rst = '1' then
+	direction0 <= "00";
+	direction2 <= "00";
+	direction1 <= "00";
+	direction3 <= "00";
+	elsif gclk = '1' and gclk'event then
+		if(echo_output2 > 180000 and echo_output3 > 180000) then
+			motor_pwm1 <= std_logic_vector(to_unsigned(8750,motor_pwm1'length));
+			motor_pwm3 <= std_logic_vector(to_unsigned(8750,motor_pwm3'length));
+			direction3 <= "10";
+			direction1 <= "01";
+		else
+			motor_pwm1 <= (others => '0');
+			motor_pwm3 <= (others => '0');
+			direction1 <= "00";
+			direction3 <= "00";
+			motor_pwm1 <= std_logic_vector(to_unsigned(0,motor_pwm1'length));
+			motor_pwm3 <= std_logic_vector(to_unsigned(0,motor_pwm3'length));
+			motor_pwm0 <= std_logic_vector(to_unsigned(10000,motor_pwm0'length));
+			motor_pwm2 <= std_logic_vector(to_unsigned(10000,motor_pwm2'length));
+			direction0 <= "01";
+			direction2 <= "10";
+			if (echo_output2 > 250000 and echo_output3 > 250000) then
+				motor_pwm1 <= std_logic_vector(to_unsigned(0,motor_pwm1'length));
+				motor_pwm3 <= std_logic_vector(to_unsigned(0,motor_pwm3'length));
+				direction3 <= "00";
+				direction1 <= "00";
+				motor_pwm0 <= std_logic_vector(to_unsigned(0,motor_pwm0'length));
+				motor_pwm2 <= std_logic_vector(to_unsigned(0,motor_pwm2'length));
+				direction0 <= "00";
+				direction2 <= "00";
+			else
+				motor_pwm1 <= std_logic_vector(to_unsigned(0,motor_pwm1'length));
+				motor_pwm3 <= std_logic_vector(to_unsigned(0,motor_pwm3'length));
+				direction3 <= "00";
+				direction1 <= "00";
+				motor_pwm0 <= std_logic_vector(to_unsigned(10000,motor_pwm0'length));
+				motor_pwm2 <= std_logic_vector(to_unsigned(10000,motor_pwm2'length));
+				direction0 <= "01";
+				direction2 <= "10";
+			end if;
+		end if;
+	end if;

@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+dC:\VHDL Projects\Snooker Robot\UltraSonar\tb
+Eecho_block
+Z0 w1447778451
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\VHDL Projects\Snooker Robot\UltraSonar2\tb
+Z6 8C:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd
+Z7 FC:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd
+l0
+L29
+VKNN<?;i5zGVPid:@?<z]V1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1447778451.215000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd|
+Z11 !s107 C:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 4jXjDfkaN[1KgZg2`KK1c0
+!i10b 1
+Aecho_block_architecture
+R1
+R2
+R3
+R4
+DEx4 work 10 echo_block 0 22 KNN<?;i5zGVPid:@?<z]V1
+l50
+L45
+V^8cg`;R^@omgFGkDN;Fn`2
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 cdZgf2I`L3M]G?5UO:Bm[1
+!i10b 1
+Eecho_tb
+Z14 w1447763711
+R1
+R2
+R3
+R4
+R5
+Z15 8C:/VHDL Projects/Snooker Robot/UltraSonar2/tb/echo_tb.vhd
+Z16 FC:/VHDL Projects/Snooker Robot/UltraSonar2/tb/echo_tb.vhd
+l0
+L7
+V^d5dRLaiSdN^ET]VG4RCf0
+!s100 Z;i7eMmo]?T=NFR]hgXGi3
+R8
+32
+!i10b 1
+Z17 !s108 1447778451.391000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/UltraSonar2/tb/echo_tb.vhd|
+Z19 !s107 C:/VHDL Projects/Snooker Robot/UltraSonar2/tb/echo_tb.vhd|
+R12
+R13
+Aecho_tb_architecture
+R1
+R2
+R3
+R4
+Z20 DEx4 work 7 echo_tb 0 22 ^d5dRLaiSdN^ET]VG4RCf0
+l33
+L17
+Z21 VI=CkVYklkDK;B<b0Z<I8d2
+Z22 !s100 7^fNLFD85JP[zi;IDefdF2
+R8
+32
+!i10b 1
+R17
+R18
+R19
+R12
+R13

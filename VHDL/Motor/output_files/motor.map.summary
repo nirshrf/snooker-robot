@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Nov 24 15:38:09 2017
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : motor
+Top-level Entity Name : motor
+Family : Cyclone II
+Total logic elements : 2,266
+    Total combinational functions : 1,584
+    Dedicated logic registers : 1,409
+Total registers : 1409
+Total pins : 50
+Total virtual pins : 0
+Total memory bits : 7,552
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

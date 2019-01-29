@@ -1,0 +1,38 @@
+Quartus II Archive log --	C:/VHDL Projects/New Snooker/Motor/motor_tmp_archive.qarlog
+
+Archive:	C:/VHDL Projects/New Snooker/Motor/motor_tmp_archive.qar
+Date:		Fri Mar 18 08:44:35 2016
+Quartus II 64-Bit		13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/VHDL Projects/New Snooker/Motor/Logic_control5.vhd
+C:/VHDL Projects/New Snooker/Motor/PWM.vhd
+C:/VHDL Projects/New Snooker/Motor/RecieveLogic1.vhd
+C:/VHDL Projects/New Snooker/Motor/divider.vhd
+C:/VHDL Projects/New Snooker/Motor/echo_block.vhd
+C:/VHDL Projects/New Snooker/Motor/incremental_db/compiled_partitions/motor.db_info
+C:/VHDL Projects/New Snooker/Motor/motor.qpf
+C:/VHDL Projects/New Snooker/Motor/motor.qsf
+C:/VHDL Projects/New Snooker/Motor/motor.vhd
+C:/VHDL Projects/New Snooker/Motor/motor_assignment_defaults.qdf
+C:/VHDL Projects/New Snooker/Motor/movingStates.vhd
+C:/VHDL Projects/New Snooker/Motor/output_files/ss_new2.stp
+C:/VHDL Projects/New Snooker/Motor/output_files/ss_new2_auto_stripped.stp
+C:/VHDL Projects/New Snooker/Motor/snookermif.mif
+C:/VHDL Projects/New Snooker/Motor/snookermifforreal.cmp
+C:/VHDL Projects/New Snooker/Motor/snookermifforreal.qip
+C:/VHDL Projects/New Snooker/Motor/snookermifforreal.vhd
+C:/VHDL Projects/New Snooker/Motor/top.vhd
+C:/VHDL Projects/New Snooker/Motor/trigger_mux.vhd
+C:/VHDL Projects/New Snooker/Motor/uart.vhd
+C:/VHDL Projects/New Snooker/Motor/ultra_sonar.vhd
+	======= Total: 21 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Mar 18 08:44:36 2016
+Source archive file:	C:/VHDL Projects/New Snooker/Motor/motor_tmp_archive.qar
+Archive was extracted into	C:/VHDL Projects/New Snooker/Motor_copy/
+		 - successfully.

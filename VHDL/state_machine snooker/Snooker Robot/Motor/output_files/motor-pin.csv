@@ -1,0 +1,62 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 64-Bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\VHDL Projects\Snooker Robot\Motor\output_files\motor-pin.csv
+# Generated on: Wed Dec 02 18:59:35 2015
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Differential Pair
+altera_reserved_tck,Input,,,,PIN_M6,,,,
+altera_reserved_tdi,Input,,,,PIN_M8,,,,
+altera_reserved_tdo,Output,,,,PIN_M7,,,,
+altera_reserved_tms,Input,,,,PIN_L8,,,,
+direction0[1],Output,PIN_L19,5,B5_N1,PIN_F1,,,,
+direction0[0],Output,PIN_L25,5,B5_N1,PIN_D16,,,,
+direction1[1],Output,PIN_L24,5,B5_N1,PIN_B17,,,,
+direction1[0],Output,PIN_L23,5,B5_N1,PIN_E15,,,,
+direction2[1],Output,PIN_J26,5,B5_N1,PIN_D17,,,,
+direction2[0],Output,PIN_J25,5,B5_N1,PIN_H1,,,,
+direction3[1],Output,PIN_L20,5,B5_N1,PIN_D15,,,,
+direction3[0],Output,PIN_L21,5,B5_N1,PIN_G14,,,,
+echo0,Input,PIN_M20,5,B5_N1,PIN_B14,,,,
+echo1,Input,PIN_M23,5,B5_N1,PIN_A14,,,,
+echo2,Input,PIN_J20,5,B5_N0,PIN_B11,,,,
+echo3,Input,PIN_P18,5,B5_N0,PIN_B12,,,,
+enable0,Output,PIN_D25,5,B5_N0,PIN_D12,,,,
+enable1,Output,PIN_E26,5,B5_N0,PIN_C11,,,,
+enable2,Output,PIN_F24,5,B5_N0,PIN_AA9,,,,
+enable3,Output,PIN_J21,5,B5_N0,PIN_D8,,,,
+gclk,Input,PIN_N2,2,B2_N1,PIN_P2,,,,
+pwm0,Output,PIN_U21,6,B6_N0,PIN_J11,,,,
+pwm1,Output,PIN_T19,6,B6_N0,PIN_C12,,,,
+pwm2,Output,PIN_V25,6,B6_N0,PIN_G12,,,,
+pwm3,Output,PIN_V23,6,B6_N0,PIN_D14,,,,
+rst,Input,PIN_N25,5,B5_N1,PIN_P1,,,,
+state_out[6],Output,PIN_V13,8,B8_N0,PIN_G13,,,,
+state_out[5],Output,PIN_V14,8,B8_N0,PIN_F13,,,,
+state_out[4],Output,PIN_AE11,8,B8_N0,PIN_F14,,,,
+state_out[3],Output,PIN_AD11,8,B8_N0,PIN_B16,,,,
+state_out[2],Output,PIN_AC12,8,B8_N0,PIN_B15,,,,
+state_out[1],Output,PIN_AB12,8,B8_N0,PIN_C15,,,,
+state_out[0],Output,PIN_AF10,8,B8_N0,PIN_C16,,,,
+switch0,Input,PIN_V2,1,B1_N0,PIN_C13,,,,
+switch1,Input,PIN_V1,1,B1_N0,PIN_D13,,,,
+switch2,Input,PIN_T7,1,B1_N0,PIN_AF6,,,,
+switch3,Input,PIN_U3,1,B1_N0,PIN_F10,,,,
+trigger0,Output,PIN_K25,5,B5_N1,PIN_H3,,,,
+trigger1,Output,PIN_K26,5,B5_N1,PIN_G10,,,,
+trigger2,Output,PIN_F26,5,B5_N0,PIN_M5,,,,
+trigger3,Output,PIN_J22,5,B5_N0,PIN_L2,,,,

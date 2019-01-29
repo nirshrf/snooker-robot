@@ -1,0 +1,83 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Etrigger_mux
+Z0 w1448005696
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\VHDL Projects\Snooker Robot\Motor\mux_simulation
+Z6 8C:/VHDL Projects/Snooker Robot/Motor/trigger_mux.vhd
+Z7 FC:/VHDL Projects/Snooker Robot/Motor/trigger_mux.vhd
+l0
+L30
+V2GJ1iP8`Aza7U8c5d^;hS2
+!s100 dmN`O<m3OLV3`1gM9WN9h2
+Z8 OV;C;10.1d;51
+32
+!i10b 1
+Z9 !s108 1448005801.961000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/Motor/trigger_mux.vhd|
+Z11 !s107 C:/VHDL Projects/Snooker Robot/Motor/trigger_mux.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+Atrigger_mux_architecture
+R1
+R2
+R3
+R4
+Z14 DEx4 work 11 trigger_mux 0 22 2GJ1iP8`Aza7U8c5d^;hS2
+l50
+L46
+V3OR^8M_KJ?Y8]:;GbYb2o2
+!s100 LjO<WJ2e9FnIml5BNn4f@3
+R8
+32
+!i10b 1
+R9
+R10
+R11
+R12
+R13
+Etrigger_mux_tb
+Z15 w1448005541
+R1
+R2
+R3
+R4
+R5
+Z16 8C:/VHDL Projects/Snooker Robot/Motor/mux_simulation/trigger_mux_tb.vhd
+Z17 FC:/VHDL Projects/Snooker Robot/Motor/mux_simulation/trigger_mux_tb.vhd
+l0
+L7
+VUi9B71?CKoSEcnSOEKJ7U1
+R8
+32
+Z18 !s108 1448005762.752000
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/Motor/mux_simulation/trigger_mux_tb.vhd|
+Z20 !s107 C:/VHDL Projects/Snooker Robot/Motor/mux_simulation/trigger_mux_tb.vhd|
+R12
+R13
+!s100 @@0l@P<E6J;eiWK0PikX]1
+!i10b 1
+Atrigger_mux_tb_architecture
+R1
+R2
+R3
+R4
+DEx4 work 14 trigger_mux_tb 0 22 Ui9B71?CKoSEcnSOEKJ7U1
+l32
+L17
+VNb5>WICdRG>LzOKmDhV>Z2
+!s100 f[e9Kn9N7:FzG258gcYzN1
+R8
+32
+R18
+R19
+R20
+R12
+R13
+!i10b 1

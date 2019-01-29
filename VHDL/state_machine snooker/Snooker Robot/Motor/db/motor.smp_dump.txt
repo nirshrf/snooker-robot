@@ -1,0 +1,12 @@
+
+State Machine - |motor|movingStates:UmovingStates|current_state
+Name current_state.rs_start current_state.stop current_state.rotate90 current_state.moveUntil current_state.timedDriving current_state.alignedDriving current_state.align current_state.drivingDistance current_state.start 
+current_state.start 0 0 0 0 0 0 0 0 0 
+current_state.drivingDistance 0 0 0 0 0 0 0 1 1 
+current_state.align 0 0 0 0 0 0 1 0 1 
+current_state.alignedDriving 0 0 0 0 0 1 0 0 1 
+current_state.timedDriving 0 0 0 0 1 0 0 0 1 
+current_state.moveUntil 0 0 0 1 0 0 0 0 1 
+current_state.rotate90 0 0 1 0 0 0 0 0 1 
+current_state.stop 0 1 0 0 0 0 0 0 1 
+current_state.rs_start 1 0 0 0 0 0 0 0 1 

@@ -1,0 +1,21 @@
+{C:/VHDL Projects/Snooker Robot/Motor/mux_simulation/trigger_mux_tb.vhd} {1 {vcom -work work -2002 -explicit {C:/VHDL Projects/Snooker Robot/Motor/mux_simulation/trigger_mux_tb.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity trigger_mux_tb
+-- Compiling architecture trigger_mux_tb_architecture of trigger_mux_tb
+
+} {} {}} {C:/VHDL Projects/Snooker Robot/Motor/trigger_mux.vhd} {1 {vcom -work work -2002 -explicit {C:/VHDL Projects/Snooker Robot/Motor/trigger_mux.vhd}
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity trigger_mux
+-- Compiling architecture trigger_mux_architecture of trigger_mux
+
+} {} {}}

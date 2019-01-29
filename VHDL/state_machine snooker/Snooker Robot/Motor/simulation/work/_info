@@ -1,0 +1,200 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.0sp1
+Eecho_block
+Z0 w1447775659
+Z1 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+Z3 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z4 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z5 dC:\VHDL Projects\Snooker Robot\Motor\simulation
+Z6 8C:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd
+Z7 FC:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd
+l0
+L29
+VKNN<?;i5zGVPid:@?<z]V1
+Z8 OV;C;10.1d;51
+32
+Z9 !s108 1447776621.739000
+Z10 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd|
+Z11 !s107 C:/VHDL Projects/Snooker Robot/UltraSonar2/echo_block.vhd|
+Z12 o-work work -2002 -explicit -O0
+Z13 tExplicit 1
+!s100 4jXjDfkaN[1KgZg2`KK1c0
+!i10b 1
+Aecho_block_architecture
+R1
+R2
+R3
+R4
+DEx4 work 10 echo_block 0 22 KNN<?;i5zGVPid:@?<z]V1
+l47
+L45
+VYYd^;MZ?O>AiZVc<T@=e;3
+R8
+32
+R9
+R10
+R11
+R12
+R13
+!s100 9BU<^[`J2z[78A8>df[:I1
+!i10b 1
+Emotor
+Z14 w1447763577
+R1
+R2
+R3
+R4
+R5
+Z15 8C:/VHDL Projects/Snooker Robot/Motor/motor.vhd
+Z16 FC:/VHDL Projects/Snooker Robot/Motor/motor.vhd
+l0
+L30
+V2`PE_WO1c85_n@Zc4NLzG1
+R8
+32
+Z17 !s108 1447776621.610000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/Motor/motor.vhd|
+Z19 !s107 C:/VHDL Projects/Snooker Robot/Motor/motor.vhd|
+R12
+R13
+!s100 ?V>QmcYXAFhnQX0kn:eiJ1
+!i10b 1
+Amotor_architecture
+R1
+R2
+R3
+R4
+DEx4 work 5 motor 0 22 2`PE_WO1c85_n@Zc4NLzG1
+l99
+L64
+VJSNaKaGVe@kFL[e8KAkS=2
+R8
+32
+R17
+R18
+R19
+R12
+R13
+!s100 <GAPhm9Hi;EHcQJYEJ93c1
+!i10b 1
+Emotor_tb
+Z20 w1447676521
+R1
+R2
+R3
+R4
+R5
+Z21 8C:/VHDL Projects/Snooker Robot/Motor/simulation/motor_simulation.vhd
+Z22 FC:/VHDL Projects/Snooker Robot/Motor/simulation/motor_simulation.vhd
+l0
+L8
+V8COBeD^;mgLemjLM;GL<?1
+R8
+32
+Z23 !s108 1447776622.058000
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/Motor/simulation/motor_simulation.vhd|
+Z25 !s107 C:/VHDL Projects/Snooker Robot/Motor/simulation/motor_simulation.vhd|
+R12
+R13
+!s100 16TTM^SBDHdQQ6L]4adg?0
+!i10b 1
+Amotor_tb_architecture
+R1
+R2
+R3
+R4
+DEx4 work 8 motor_tb 0 22 8COBeD^;mgLemjLM;GL<?1
+l73
+L18
+V[]fBMQU=eFR<i_0HRFhzF2
+!s100 5^FYDY2ziG>3EF3SEcC=D2
+R8
+32
+R23
+R24
+R25
+R12
+R13
+!i10b 1
+Epwm
+Z26 w1447683843
+R1
+R2
+R3
+R4
+R5
+Z27 8C:/VHDL Projects/Projects/PWM/PWM.vhd
+Z28 FC:/VHDL Projects/Projects/PWM/PWM.vhd
+l0
+L30
+Vah]hcCITVL[XU?cQO[Jn<0
+R8
+32
+Z29 !s108 1447776621.910000
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Projects/PWM/PWM.vhd|
+Z31 !s107 C:/VHDL Projects/Projects/PWM/PWM.vhd|
+R12
+R13
+!s100 ZBe2ijATFkTMEL]Dg54Y?0
+!i10b 1
+Apwm_architecture
+R1
+R2
+R3
+R4
+DEx4 work 3 pwm 0 22 ah]hcCITVL[XU?cQO[Jn<0
+l47
+L45
+VFZa_FgPCM14d_DbViF;@>2
+R8
+32
+R29
+R30
+R31
+R12
+R13
+!s100 0a:YY=A^f>iY_AS_2aX4R0
+!i10b 1
+Eultra_sonar
+Z32 w1447412080
+R1
+R2
+R3
+R4
+R5
+Z33 8C:/VHDL Projects/Snooker Robot/UltraSonar/ultra_sonar.vhd
+Z34 FC:/VHDL Projects/Snooker Robot/UltraSonar/ultra_sonar.vhd
+l0
+L30
+V]EW5fGeFdYhlJ_24^3ca[3
+!s100 S906hRU7`@5i`]8WdiWZ71
+R8
+32
+!i10b 1
+Z35 !s108 1447776622.209000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/VHDL Projects/Snooker Robot/UltraSonar/ultra_sonar.vhd|
+Z37 !s107 C:/VHDL Projects/Snooker Robot/UltraSonar/ultra_sonar.vhd|
+R12
+R13
+Aultra_sonar_architecture
+R1
+R2
+R3
+R4
+Z38 DEx4 work 11 ultra_sonar 0 22 ]EW5fGeFdYhlJ_24^3ca[3
+l48
+L45
+Z39 V47bXXTFHMl^Zc;GGHRAT81
+Z40 !s100 O2Sc4XZ=HAIGKc8]=OX073
+R8
+32
+!i10b 1
+R35
+R36
+R37
+R12
+R13

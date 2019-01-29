@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Jan 30 18:03:55 2017
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : motor
+Top-level Entity Name : motor
+Family : Cyclone IV GX
+Device : EP4CGX22CF19C6
+Timing Models : Final
+Total logic elements : 1,223 / 21,280 ( 6 % )
+    Total combinational functions : 1,117 / 21,280 ( 5 % )
+    Dedicated logic registers : 599 / 21,280 ( 3 % )
+Total registers : 599
+Total pins : 49 / 167 ( 29 % )
+Total virtual pins : 0
+Total memory bits : 2,048 / 774,144 ( < 1 % )
+Embedded Multiplier 9-bit elements : 0 / 80 ( 0 % )
+Total GXB Receiver Channel PCS : 0 / 4 ( 0 % )
+Total GXB Receiver Channel PMA : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PCS : 0 / 4 ( 0 % )
+Total GXB Transmitter Channel PMA : 0 / 4 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )

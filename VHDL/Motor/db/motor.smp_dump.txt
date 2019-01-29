@@ -1,0 +1,51 @@
+
+State Machine - |motor|top:Utop|Logic_control5:logicUnit|state
+Name state.EOF state.Timer state.StartBit state.DataLoadS state.AddS state.SendCounter state.WCheck state.readData state.wait_e state.start 
+state.start 0 0 0 0 0 0 0 0 0 0 
+state.wait_e 0 0 0 0 0 0 0 0 1 1 
+state.readData 0 0 0 0 0 0 0 1 0 1 
+state.WCheck 0 0 0 0 0 0 1 0 0 1 
+state.SendCounter 0 0 0 0 0 1 0 0 0 1 
+state.AddS 0 0 0 0 1 0 0 0 0 1 
+state.DataLoadS 0 0 0 1 0 0 0 0 0 1 
+state.StartBit 0 0 1 0 0 0 0 0 0 1 
+state.Timer 0 1 0 0 0 0 0 0 0 1 
+state.EOF 1 0 0 0 0 0 0 0 0 1 
+
+State Machine - |motor|uart:unitUArt|uart_tx_state
+Name uart_tx_state.tx_send_stop_bit uart_tx_state.tx_send_data uart_tx_state.tx_send_start_bit 
+uart_tx_state.tx_send_start_bit 0 0 0 
+uart_tx_state.tx_send_data 0 1 1 
+uart_tx_state.tx_send_stop_bit 1 0 1 
+
+State Machine - |motor|uart:unitUArt|uart_rx_state
+Name uart_rx_state.rx_get_stop_bit uart_rx_state.zynq_state uart_rx_state.rx_get_data uart_rx_state.rx_get_start_bit 
+uart_rx_state.rx_get_start_bit 0 0 0 0 
+uart_rx_state.rx_get_data 0 0 1 1 
+uart_rx_state.zynq_state 0 1 0 1 
+uart_rx_state.rx_get_stop_bit 1 0 0 1 
+
+State Machine - |motor|movingStates:UmovingStates|current_state
+Name current_state.wait_EOF current_state.zynq_stop current_state.stopDrive current_state.alignAfterBack current_state.start current_state.rs_backwards current_state.rs_align current_state.rs_outside current_state.rs_rotate current_state.rs_move current_state.stop current_state.delayRotate90 current_state.rotate90 current_state.delayMoveUntil current_state.afterMoveUntil current_state.moveUntil current_state.delayAlignedDriving current_state.delayAlign current_state.alignedDriving current_state.align current_state.drivingDistance current_state.drivingBackwards 
+current_state.drivingBackwards 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+current_state.drivingDistance 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 
+current_state.align 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 
+current_state.alignedDriving 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 1 
+current_state.delayAlign 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 
+current_state.delayAlignedDriving 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 1 
+current_state.moveUntil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1 
+current_state.afterMoveUntil 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1 
+current_state.delayMoveUntil 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 1 
+current_state.rotate90 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 
+current_state.delayRotate90 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 1 
+current_state.stop 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 
+current_state.rs_move 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.rs_rotate 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.rs_outside 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.rs_align 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.rs_backwards 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.start 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.alignAfterBack 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.stopDrive 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.zynq_stop 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+current_state.wait_EOF 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 

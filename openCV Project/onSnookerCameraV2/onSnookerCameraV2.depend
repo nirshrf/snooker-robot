@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+4998 source:/root/Documents/CBProjects/onSnookerCameraV2/main.cpp
+	<iostream>
+	"include/fineTuning.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/core/core.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	<thread>
+	"comm.h"
+
+434 source:/root/Documents/CBProjects/onSnookerCameraV2/src/Circle.cpp
+
+6680 /root/Documents/CBProjects/onSnookerCameraV2/include/fineTuning.h
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/core/core.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	"comm.h"
+
+7116 source:/root/Documents/CBProjects/onSnookerCameraV2/src/fineTuning.cpp
+	"fineTuning.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/core/core.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	"comm.h"
+
+6037 /root/Documents/CBProjects/onSnookerCameraV2/include/comm.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+
+6379 source:/root/Documents/CBProjects/onSnookerCameraV2/src/comm.cpp
+	"comm.h"
+
+-1 source:c:\users\cuda\desktop\onsnookercamerav2\main.cpp
+	<iostream>
+	"include/fineTuning.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/core/core.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	<thread>
+	"comm.h"
+
+-1 c:\users\cuda\desktop\onsnookercamerav2\include\finetuning.h
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/core/core.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	"comm.h"
+
+-1 c:\users\cuda\desktop\onsnookercamerav2\include\comm.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+
+-1 source:c:\users\cuda\desktop\onsnookercamerav2\src\circle.cpp
+
+-1 source:c:\users\cuda\desktop\onsnookercamerav2\src\comm.cpp
+	"comm.h"
+
+-1 source:c:\raphy\robotsnooker 2015-2016\opencv project\onsnookercamerav2\main.cpp
+	<iostream>
+	"include/fineTuning.h"
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/core/core.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	<thread>
+	"comm.h"
+
+1482486793 c:\raphy\robotsnooker 2015-2016\opencv project\onsnookercamerav2\include\finetuning.h
+	<opencv/cv.h>
+	<opencv/highgui.h>
+	"opencv2/imgproc/imgproc.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/core/core.hpp"
+	<stdio.h>
+	<stdlib.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+	"comm.h"
+
+-1 c:\raphy\robotsnooker 2015-2016\opencv project\onsnookercamerav2\include\comm.h
+	<stdio.h>
+	<stdlib.h>
+	<sys/mman.h>
+	<fcntl.h>
+	<sys/stat.h>
+	<unistd.h>
+
+-1 source:c:\raphy\robotsnooker 2015-2016\opencv project\onsnookercamerav2\src\circle.cpp
+
+-1 source:c:\raphy\robotsnooker 2015-2016\opencv project\onsnookercamerav2\src\comm.cpp
+	"comm.h"
+

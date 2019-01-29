@@ -1,0 +1,18 @@
+Analysis & Synthesis Status : Successful - Mon Jan 30 18:03:30 2017
+Quartus II 32-bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : motor
+Top-level Entity Name : motor
+Family : Cyclone IV GX
+Total logic elements : 1,273
+    Total combinational functions : 1,116
+    Dedicated logic registers : 599
+Total registers : 599
+Total pins : 49
+Total virtual pins : 0
+Total memory bits : 2,048
+Embedded Multiplier 9-bit elements : 0
+Total GXB Receiver Channel PCS : 0
+Total GXB Receiver Channel PMA : 0
+Total GXB Transmitter Channel PCS : 0
+Total GXB Transmitter Channel PMA : 0
+Total PLLs : 0

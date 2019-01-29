@@ -1,0 +1,50 @@
+/*
+WARNING: Do NOT edit the input and output ports in this file in a text
+editor if you plan to continue editing the block that represents it in
+the Block Editor! File corruption is VERY likely to occur.
+*/
+/*
+Copyright (C) 1991-2013 Altera Corporation
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, Altera MegaCore Function License 
+Agreement, or other applicable license agreement, including, 
+without limitation, that your use is for the sole purpose of 
+programming logic devices manufactured by Altera and sold by 
+Altera or its authorized distributors.  Please refer to the 
+applicable agreement for further details.
+*/
+(header "graphic" (version "1.4"))
+(block
+	(rect 112 48 304 488)
+	(text "motor" (rect 5 5 36 19)(font "Arial" (font_size 8)))	(text "inst" (rect 5 425 22 437)(font "Arial" ))	(block_io "gclk" (input))
+	(block_io "rst" (input))
+	(block_io "echo0" (input))
+	(block_io "echo1" (input))
+	(block_io "switch0" (input))
+	(block_io "switch1" (input))
+	(block_io "switch2" (input))
+	(block_io "switch3" (input))
+	(block_io "echo2" (input))
+	(block_io "echo3" (input))
+	(block_io "trigger3" (input))
+	(block_io "pwm0" (output))
+	(block_io "pwm1" (output))
+	(block_io "pwm2" (output))
+	(block_io "pwm3" (output))
+	(block_io "direction0" (output))
+	(block_io "direction1" (output))
+	(block_io "direction2" (output))
+	(block_io "direction3" (output))
+	(block_io "enable0" (output))
+	(block_io "enable1" (output))
+	(block_io "enable2" (output))
+	(block_io "enable3" (output))
+	(block_io "trigger0" (output))
+	(block_io "trigger1" (output))
+	(block_io "trigger2" (output))
+)

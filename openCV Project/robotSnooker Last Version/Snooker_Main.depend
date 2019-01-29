@@ -1,0 +1,1388 @@
+# depslib dependency file v1.0
+1464787577 source:c:\snooker project\mainprocess\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+	"targeting.h"
+
+1387503748 c:\opencv3\build\include\opencv2\core\core.hpp
+	"opencv2/core.hpp"
+
+1431655563 c:\opencv3\build\include\opencv2\core.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/version.hpp"
+	"opencv2/core/base.hpp"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core/persistence.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/xfeatures2d.hpp"
+	"opencv2/core/operations.hpp"
+	"opencv2/core/cvstd.inl.hpp"
+	"opencv2/core/utility.hpp"
+	"opencv2/core/optim.hpp"
+
+1429663671 c:\opencv3\build\include\opencv2\core\cvdef.h
+	"opencv2/hal/defs.h"
+	<intrin.h>
+
+1429663671 c:\opencv3\build\include\opencv2\hal\defs.h
+	<limits.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<nmmintrin.h>
+	<popcntintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	"arm_neon.h"
+	<arm_neon.h>
+	<cstdint>
+	<stdint.h>
+	<fastmath.h>
+	<cmath>
+	<math.h>
+	"tegra_round.hpp"
+	<algorithm>
+
+1433356495 c:\opencv3\build\include\opencv2\core\version.hpp
+
+1432341595 c:\opencv3\build\include\opencv2\core\base.hpp
+	<climits>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/hal.hpp"
+	"sse_utils.hpp"
+
+1427160707 c:\opencv3\build\include\opencv2\core\cvstd.hpp
+	"opencv2/core/cvdef.h"
+	<cstddef>
+	<cstring>
+	<cctype>
+	<string>
+	<algorithm>
+	<utility>
+	<cstdlib>
+	<cmath>
+	"opencv2/core/ptr.inl.hpp"
+
+1415927343 c:\opencv3\build\include\opencv2\core\ptr.inl.hpp
+	<algorithm>
+
+1429663671 c:\opencv3\build\include\opencv2\hal.hpp
+	"opencv2/hal/defs.h"
+
+1421889910 c:\opencv3\build\include\opencv2\core\sse_utils.hpp
+
+1415927343 c:\opencv3\build\include\opencv2\core\traits.hpp
+	"opencv2/core/cvdef.h"
+
+1432514666 c:\opencv3\build\include\opencv2\core\matx.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/traits.hpp"
+
+1417914043 c:\opencv3\build\include\opencv2\core\types.hpp
+	<climits>
+	<cfloat>
+	<vector>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/matx.hpp"
+
+1430959246 c:\opencv3\build\include\opencv2\core\mat.hpp
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/bufferpool.hpp"
+	"opencv2/core/mat.inl.hpp"
+
+1415927342 c:\opencv3\build\include\opencv2\core\bufferpool.hpp
+
+1430959246 c:\opencv3\build\include\opencv2\core\mat.inl.hpp
+
+1432255274 c:\opencv3\build\include\opencv2\core\persistence.hpp
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/opencv.hpp"
+	<time.h>
+
+1405558220 c:\opencv3\build\include\opencv2\opencv.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo.hpp"
+	"opencv2/video.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/objdetect.hpp"
+	"opencv2/calib3d.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/ml.hpp"
+
+1431824773 c:\opencv3\build\include\opencv2\imgproc.hpp
+	"opencv2/core.hpp"
+	<opencv2/core.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui.hpp>
+	<iostream>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<math.h>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	"opencv2/imgproc.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1430959246 c:\opencv3\build\include\opencv2\imgcodecs.hpp
+	"opencv2/core.hpp"
+	<vector>
+	<stdio.h>
+	<opencv2/opencv.hpp>
+
+1424827612 c:\opencv3\build\include\opencv2\highgui.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1433356495 c:\opencv3\build\include\opencv2\videoio.hpp
+	"opencv2/core.hpp"
+	"opencv2/opencv.hpp"
+
+1418692190 c:\opencv3\build\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgcodecs/imgcodecs_c.h"
+	"opencv2/videoio/videoio_c.h"
+
+1415927342 c:\opencv3\build\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+	"cxcore.h"
+	"cxcore.h"
+	"opencv2/core/utility.hpp"
+
+1429663671 c:\opencv3\build\include\opencv2\core\types_c.h
+	<ipl.h>
+	<ipl/ipl.h>
+	"opencv2/core/cvdef.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"opencv2/core.hpp"
+
+1431655563 c:\opencv3\build\include\opencv2\core\utility.hpp
+	"opencv2/core.hpp"
+	"opencv2/core/core_c.h"
+
+1417482045 c:\opencv3\build\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/imgproc/types_c.h"
+
+1432514666 c:\opencv3\build\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+
+1417568974 c:\opencv3\build\include\opencv2\imgcodecs\imgcodecs_c.h
+	"opencv2/core/core_c.h"
+
+1433356495 c:\opencv3\build\include\opencv2\videoio\videoio_c.h
+	"opencv2/core/core_c.h"
+
+1432514666 c:\opencv3\build\include\opencv2\photo.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo/photo_c.h"
+
+1420074511 c:\opencv3\build\include\opencv2\photo\photo_c.h
+	"opencv2/core/core_c.h"
+
+1419296462 c:\opencv3\build\include\opencv2\video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+	"opencv2/video/tracking_c.h"
+
+1433205234 c:\opencv3\build\include\opencv2\video\tracking.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1417568974 c:\opencv3\build\include\opencv2\video\background_segm.hpp
+	"opencv2/core.hpp"
+
+1417568974 c:\opencv3\build\include\opencv2\video\tracking_c.h
+	"opencv2/imgproc/types_c.h"
+
+1431045765 c:\opencv3\build\include\opencv2\features2d.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1430269043 c:\opencv3\build\include\opencv2\flann\miniflann.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/defines.h"
+
+1397175256 c:\opencv3\build\include\opencv2\flann\defines.h
+	"config.h"
+
+1387503749 c:\opencv3\build\include\opencv2\flann\config.h
+
+1431478737 c:\opencv3\build\include\opencv2\objdetect.hpp
+	"opencv2/core.hpp"
+	"opencv2/objdetect/detection_based_tracker.hpp"
+	"opencv2/objdetect/objdetect_c.h"
+
+1417568974 c:\opencv3\build\include\opencv2\objdetect\detection_based_tracker.hpp
+	<vector>
+
+1417568974 c:\opencv3\build\include\opencv2\objdetect\objdetect_c.h
+	"opencv2/core/core_c.h"
+	<deque>
+	<vector>
+
+1432514666 c:\opencv3\build\include\opencv2\calib3d.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/core/affine.hpp"
+	"opencv2/calib3d/calib3d_c.h"
+
+1430269043 c:\opencv3\build\include\opencv2\core\affine.hpp
+	<opencv2/core.hpp>
+
+1417568974 c:\opencv3\build\include\opencv2\calib3d\calib3d_c.h
+	"opencv2/core/core_c.h"
+
+1430959246 c:\opencv3\build\include\opencv2\ml.hpp
+	"opencv2/core.hpp"
+	<float.h>
+	<map>
+	<iostream>
+
+1432341595 c:\opencv3\build\include\opencv2\core\operations.hpp
+	<cstdio>
+
+1415927343 c:\opencv3\build\include\opencv2\core\cvstd.inl.hpp
+	<complex>
+	<ostream>
+
+1432773836 c:\opencv3\build\include\opencv2\core\optim.hpp
+	"opencv2/core.hpp"
+
+1387503749 c:\opencv3\build\include\opencv2\highgui\highgui.hpp
+	"opencv2/highgui.hpp"
+
+1449058702 c:\snooker project\mainprocess\strategy.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+
+1464786684 source:c:\snooker project\mainprocess\src\strat.cpp
+	"strat.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"borderRoute.h"
+
+1464505820 c:\snooker project\mainprocess\include\strat.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"ball.h"
+	"route.h"
+
+1451312947 source:c:\snooker project\mainprocess\src\rs232.cpp
+	"rs232.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<tchar.h>
+
+1385946556 c:\snooker project\mainprocess\include\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1451309633 source:c:\snooker project\mainprocess\uartapp.c
+	<windows.h>
+	<stdio.h>
+	<tchar.h>
+	"uartApp.h"
+
+1451310110 c:\snooker project\mainprocess\uartapp.h
+
+1459788246 source:c:\snooker project\mainprocess\rs232.cpp
+	"RS232.h"
+	<iostream>
+
+1459788246 c:\snooker project\mainprocess\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1385942956 source:c:\users\aviv\desktop\opencv projects\mainprocess\rs232.cpp
+	"RS232.h"
+	<iostream>
+
+1385942956 c:\users\aviv\desktop\opencv projects\mainprocess\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1457375735 source:c:\users\aviv\desktop\opencv projects\mainprocess\src\strat.cpp
+	"strat.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+
+1387500148 c:\opencv\opencv\build\include\opencv2\core\core.hpp
+	"opencv2/core.hpp"
+
+1431655563 c:\opencv\opencv\build\include\opencv2\core.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/version.hpp"
+	"opencv2/core/base.hpp"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core/persistence.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/xfeatures2d.hpp"
+	"opencv2/core/operations.hpp"
+	"opencv2/core/cvstd.inl.hpp"
+	"opencv2/core/utility.hpp"
+	"opencv2/core/optim.hpp"
+
+1429663671 c:\opencv\opencv\build\include\opencv2\core\cvdef.h
+	"opencv2/hal/defs.h"
+	<intrin.h>
+
+1429663671 c:\opencv\opencv\build\include\opencv2\hal\defs.h
+	<limits.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<nmmintrin.h>
+	<popcntintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	"arm_neon.h"
+	<arm_neon.h>
+	<cstdint>
+	<stdint.h>
+	<fastmath.h>
+	<cmath>
+	<math.h>
+	"tegra_round.hpp"
+	<algorithm>
+
+1433356495 c:\opencv\opencv\build\include\opencv2\core\version.hpp
+
+1432341595 c:\opencv\opencv\build\include\opencv2\core\base.hpp
+	<climits>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/hal.hpp"
+	"sse_utils.hpp"
+
+1427157107 c:\opencv\opencv\build\include\opencv2\core\cvstd.hpp
+	"opencv2/core/cvdef.h"
+	<cstddef>
+	<cstring>
+	<cctype>
+	<string>
+	<algorithm>
+	<utility>
+	<cstdlib>
+	<cmath>
+	"opencv2/core/ptr.inl.hpp"
+
+1415923743 c:\opencv\opencv\build\include\opencv2\core\ptr.inl.hpp
+	<algorithm>
+
+1429663671 c:\opencv\opencv\build\include\opencv2\hal.hpp
+	"opencv2/hal/defs.h"
+
+1421886310 c:\opencv\opencv\build\include\opencv2\core\sse_utils.hpp
+
+1415923743 c:\opencv\opencv\build\include\opencv2\core\traits.hpp
+	"opencv2/core/cvdef.h"
+
+1432514666 c:\opencv\opencv\build\include\opencv2\core\matx.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/traits.hpp"
+
+1417910443 c:\opencv\opencv\build\include\opencv2\core\types.hpp
+	<climits>
+	<cfloat>
+	<vector>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/matx.hpp"
+
+1430959246 c:\opencv\opencv\build\include\opencv2\core\mat.hpp
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/bufferpool.hpp"
+	"opencv2/core/mat.inl.hpp"
+
+1415923742 c:\opencv\opencv\build\include\opencv2\core\bufferpool.hpp
+
+1430959246 c:\opencv\opencv\build\include\opencv2\core\mat.inl.hpp
+
+1432255274 c:\opencv\opencv\build\include\opencv2\core\persistence.hpp
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/opencv.hpp"
+	<time.h>
+
+1405558220 c:\opencv\opencv\build\include\opencv2\opencv.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo.hpp"
+	"opencv2/video.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/objdetect.hpp"
+	"opencv2/calib3d.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/ml.hpp"
+
+1431824773 c:\opencv\opencv\build\include\opencv2\imgproc.hpp
+	"opencv2/core.hpp"
+	<opencv2/core.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui.hpp>
+	<iostream>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<math.h>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	"opencv2/imgproc.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1430959246 c:\opencv\opencv\build\include\opencv2\imgcodecs.hpp
+	"opencv2/core.hpp"
+	<vector>
+	<stdio.h>
+	<opencv2/opencv.hpp>
+
+1424824012 c:\opencv\opencv\build\include\opencv2\highgui.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1433356495 c:\opencv\opencv\build\include\opencv2\videoio.hpp
+	"opencv2/core.hpp"
+	"opencv2/opencv.hpp"
+
+1418688590 c:\opencv\opencv\build\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgcodecs/imgcodecs_c.h"
+	"opencv2/videoio/videoio_c.h"
+
+1415923742 c:\opencv\opencv\build\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+	"cxcore.h"
+	"cxcore.h"
+	"opencv2/core/utility.hpp"
+
+1429663671 c:\opencv\opencv\build\include\opencv2\core\types_c.h
+	<ipl.h>
+	<ipl/ipl.h>
+	"opencv2/core/cvdef.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"opencv2/core.hpp"
+
+1431655563 c:\opencv\opencv\build\include\opencv2\core\utility.hpp
+	"opencv2/core.hpp"
+	"opencv2/core/core_c.h"
+
+1417478445 c:\opencv\opencv\build\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/imgproc/types_c.h"
+
+1432514666 c:\opencv\opencv\build\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+
+1417565374 c:\opencv\opencv\build\include\opencv2\imgcodecs\imgcodecs_c.h
+	"opencv2/core/core_c.h"
+
+1433356495 c:\opencv\opencv\build\include\opencv2\videoio\videoio_c.h
+	"opencv2/core/core_c.h"
+
+1432514666 c:\opencv\opencv\build\include\opencv2\photo.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo/photo_c.h"
+
+1420070911 c:\opencv\opencv\build\include\opencv2\photo\photo_c.h
+	"opencv2/core/core_c.h"
+
+1419292862 c:\opencv\opencv\build\include\opencv2\video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+	"opencv2/video/tracking_c.h"
+
+1433205234 c:\opencv\opencv\build\include\opencv2\video\tracking.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1417565374 c:\opencv\opencv\build\include\opencv2\video\background_segm.hpp
+	"opencv2/core.hpp"
+
+1417565374 c:\opencv\opencv\build\include\opencv2\video\tracking_c.h
+	"opencv2/imgproc/types_c.h"
+
+1431045765 c:\opencv\opencv\build\include\opencv2\features2d.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1430269043 c:\opencv\opencv\build\include\opencv2\flann\miniflann.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/defines.h"
+
+1397175256 c:\opencv\opencv\build\include\opencv2\flann\defines.h
+	"config.h"
+
+1387500149 c:\opencv\opencv\build\include\opencv2\flann\config.h
+
+1431478737 c:\opencv\opencv\build\include\opencv2\objdetect.hpp
+	"opencv2/core.hpp"
+	"opencv2/objdetect/detection_based_tracker.hpp"
+	"opencv2/objdetect/objdetect_c.h"
+
+1417565374 c:\opencv\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp
+	<vector>
+
+1417565374 c:\opencv\opencv\build\include\opencv2\objdetect\objdetect_c.h
+	"opencv2/core/core_c.h"
+	<deque>
+	<vector>
+
+1432514666 c:\opencv\opencv\build\include\opencv2\calib3d.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/core/affine.hpp"
+	"opencv2/calib3d/calib3d_c.h"
+
+1430269043 c:\opencv\opencv\build\include\opencv2\core\affine.hpp
+	<opencv2/core.hpp>
+
+1417565374 c:\opencv\opencv\build\include\opencv2\calib3d\calib3d_c.h
+	"opencv2/core/core_c.h"
+
+1430959246 c:\opencv\opencv\build\include\opencv2\ml.hpp
+	"opencv2/core.hpp"
+	<float.h>
+	<map>
+	<iostream>
+
+1432341595 c:\opencv\opencv\build\include\opencv2\core\operations.hpp
+	<cstdio>
+
+1415923743 c:\opencv\opencv\build\include\opencv2\core\cvstd.inl.hpp
+	<complex>
+	<ostream>
+
+1432773836 c:\opencv\opencv\build\include\opencv2\core\optim.hpp
+	"opencv2/core.hpp"
+
+1387500149 c:\opencv\opencv\build\include\opencv2\highgui\highgui.hpp
+	"opencv2/highgui.hpp"
+
+1457372213 c:\users\aviv\desktop\opencv projects\mainprocess\include\strat.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"ball.h"
+	"route.h"
+
+1457376878 source:c:\users\aviv\desktop\opencv projects\mainprocess\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+
+1457371981 c:\users\aviv\desktop\opencv projects\mainprocess\include\ball.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457371981 source:c:\users\aviv\desktop\opencv projects\mainprocess\src\ball.cpp
+	"ball.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457372169 c:\users\aviv\desktop\opencv projects\mainprocess\include\route.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457372197 source:c:\users\aviv\desktop\opencv projects\mainprocess\src\route.cpp
+	"route.h"
+
+1457375581 c:\snooker project\mainprocess\include\ball.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1462623977 c:\snooker project\mainprocess\include\route.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457375581 source:c:\snooker project\mainprocess\src\ball.cpp
+	"ball.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457375797 source:c:\snooker project\mainprocess\src\route.cpp
+	"route.h"
+
+1460456746 source:c:\users\electronics\desktop\robotsnooker\mainprocess\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+	"targeting.h"
+
+1387503748 c:\opencv\build\include\opencv2\core\core.hpp
+	"opencv2/core.hpp"
+
+1431659163 c:\opencv\build\include\opencv2\core.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/version.hpp"
+	"opencv2/core/base.hpp"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core/persistence.hpp"
+	"opencv2/opencv.hpp"
+	"opencv2/xfeatures2d.hpp"
+	"opencv2/core/operations.hpp"
+	"opencv2/core/cvstd.inl.hpp"
+	"opencv2/core/utility.hpp"
+	"opencv2/core/optim.hpp"
+
+1429667271 c:\opencv\build\include\opencv2\core\cvdef.h
+	"opencv2/hal/defs.h"
+	<intrin.h>
+
+1429667271 c:\opencv\build\include\opencv2\hal\defs.h
+	<limits.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<nmmintrin.h>
+	<popcntintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	"arm_neon.h"
+	<arm_neon.h>
+	<cstdint>
+	<stdint.h>
+	<fastmath.h>
+	<cmath>
+	<math.h>
+	"tegra_round.hpp"
+	<algorithm>
+
+1433360095 c:\opencv\build\include\opencv2\core\version.hpp
+
+1432345195 c:\opencv\build\include\opencv2\core\base.hpp
+	<climits>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/hal.hpp"
+	"sse_utils.hpp"
+
+1427160707 c:\opencv\build\include\opencv2\core\cvstd.hpp
+	"opencv2/core/cvdef.h"
+	<cstddef>
+	<cstring>
+	<cctype>
+	<string>
+	<algorithm>
+	<utility>
+	<cstdlib>
+	<cmath>
+	"opencv2/core/ptr.inl.hpp"
+
+1415927343 c:\opencv\build\include\opencv2\core\ptr.inl.hpp
+	<algorithm>
+
+1429667271 c:\opencv\build\include\opencv2\hal.hpp
+	"opencv2/hal/defs.h"
+
+1421889910 c:\opencv\build\include\opencv2\core\sse_utils.hpp
+
+1415927343 c:\opencv\build\include\opencv2\core\traits.hpp
+	"opencv2/core/cvdef.h"
+
+1432518266 c:\opencv\build\include\opencv2\core\matx.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/traits.hpp"
+
+1417914043 c:\opencv\build\include\opencv2\core\types.hpp
+	<climits>
+	<cfloat>
+	<vector>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/matx.hpp"
+
+1430962846 c:\opencv\build\include\opencv2\core\mat.hpp
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/bufferpool.hpp"
+	"opencv2/core/mat.inl.hpp"
+
+1415927342 c:\opencv\build\include\opencv2\core\bufferpool.hpp
+
+1430962846 c:\opencv\build\include\opencv2\core\mat.inl.hpp
+
+1432258874 c:\opencv\build\include\opencv2\core\persistence.hpp
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/opencv.hpp"
+	<time.h>
+
+1405561820 c:\opencv\build\include\opencv2\opencv.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo.hpp"
+	"opencv2/video.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/objdetect.hpp"
+	"opencv2/calib3d.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/ml.hpp"
+
+1431828373 c:\opencv\build\include\opencv2\imgproc.hpp
+	"opencv2/core.hpp"
+	<opencv2/core.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/imgcodecs.hpp>
+	<opencv2/highgui.hpp>
+	<iostream>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	<math.h>
+	<opencv2/imgproc.hpp>
+	<opencv2/highgui.hpp>
+	"opencv2/imgproc.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/imgproc/imgproc_c.h"
+
+1430962846 c:\opencv\build\include\opencv2\imgcodecs.hpp
+	"opencv2/core.hpp"
+	<vector>
+	<stdio.h>
+	<opencv2/opencv.hpp>
+
+1424827612 c:\opencv\build\include\opencv2\highgui.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui/highgui_c.h"
+
+1433360095 c:\opencv\build\include\opencv2\videoio.hpp
+	"opencv2/core.hpp"
+	"opencv2/opencv.hpp"
+
+1418692190 c:\opencv\build\include\opencv2\highgui\highgui_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgcodecs/imgcodecs_c.h"
+	"opencv2/videoio/videoio_c.h"
+
+1415927342 c:\opencv\build\include\opencv2\core\core_c.h
+	"opencv2/core/types_c.h"
+	"cxcore.h"
+	"cxcore.h"
+	"opencv2/core/utility.hpp"
+
+1429667271 c:\opencv\build\include\opencv2\core\types_c.h
+	<ipl.h>
+	<ipl/ipl.h>
+	"opencv2/core/cvdef.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"opencv2/core.hpp"
+
+1431659163 c:\opencv\build\include\opencv2\core\utility.hpp
+	"opencv2/core.hpp"
+	"opencv2/core/core_c.h"
+
+1417482045 c:\opencv\build\include\opencv2\imgproc\imgproc_c.h
+	"opencv2/imgproc/types_c.h"
+
+1432518266 c:\opencv\build\include\opencv2\imgproc\types_c.h
+	"opencv2/core/core_c.h"
+
+1417568974 c:\opencv\build\include\opencv2\imgcodecs\imgcodecs_c.h
+	"opencv2/core/core_c.h"
+
+1433360095 c:\opencv\build\include\opencv2\videoio\videoio_c.h
+	"opencv2/core/core_c.h"
+
+1432518266 c:\opencv\build\include\opencv2\photo.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo/photo_c.h"
+
+1420074511 c:\opencv\build\include\opencv2\photo\photo_c.h
+	"opencv2/core/core_c.h"
+
+1419296462 c:\opencv\build\include\opencv2\video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+	"opencv2/video/tracking_c.h"
+
+1433208834 c:\opencv\build\include\opencv2\video\tracking.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1417568974 c:\opencv\build\include\opencv2\video\background_segm.hpp
+	"opencv2/core.hpp"
+
+1417568974 c:\opencv\build\include\opencv2\video\tracking_c.h
+	"opencv2/imgproc/types_c.h"
+
+1431049365 c:\opencv\build\include\opencv2\features2d.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1430272643 c:\opencv\build\include\opencv2\flann\miniflann.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/defines.h"
+
+1397178856 c:\opencv\build\include\opencv2\flann\defines.h
+	"config.h"
+
+1387503749 c:\opencv\build\include\opencv2\flann\config.h
+
+1431482337 c:\opencv\build\include\opencv2\objdetect.hpp
+	"opencv2/core.hpp"
+	"opencv2/objdetect/detection_based_tracker.hpp"
+	"opencv2/objdetect/objdetect_c.h"
+
+1417568974 c:\opencv\build\include\opencv2\objdetect\detection_based_tracker.hpp
+	<vector>
+
+1417568974 c:\opencv\build\include\opencv2\objdetect\objdetect_c.h
+	"opencv2/core/core_c.h"
+	<deque>
+	<vector>
+
+1432518266 c:\opencv\build\include\opencv2\calib3d.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/core/affine.hpp"
+	"opencv2/calib3d/calib3d_c.h"
+
+1430272643 c:\opencv\build\include\opencv2\core\affine.hpp
+	<opencv2/core.hpp>
+
+1417568974 c:\opencv\build\include\opencv2\calib3d\calib3d_c.h
+	"opencv2/core/core_c.h"
+
+1430962846 c:\opencv\build\include\opencv2\ml.hpp
+	"opencv2/core.hpp"
+	<float.h>
+	<map>
+	<iostream>
+
+1432345195 c:\opencv\build\include\opencv2\core\operations.hpp
+	<cstdio>
+
+1415927343 c:\opencv\build\include\opencv2\core\cvstd.inl.hpp
+	<complex>
+	<ostream>
+
+1432777436 c:\opencv\build\include\opencv2\core\optim.hpp
+	"opencv2/core.hpp"
+
+1387503749 c:\opencv\build\include\opencv2\highgui\highgui.hpp
+	"opencv2/highgui.hpp"
+
+1459791846 c:\users\electronics\desktop\robotsnooker\mainprocess\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1459791846 source:c:\users\electronics\desktop\robotsnooker\mainprocess\rs232.cpp
+	"RS232.h"
+	<iostream>
+
+1457375581 source:c:\users\electronics\desktop\robotsnooker\mainprocess\src\ball.cpp
+	"ball.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457375797 source:c:\users\electronics\desktop\robotsnooker\mainprocess\src\route.cpp
+	"route.h"
+
+1460456976 source:c:\users\electronics\desktop\robotsnooker\mainprocess\src\strat.cpp
+	"strat.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+
+1457375581 c:\users\electronics\desktop\robotsnooker\mainprocess\include\ball.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457375769 c:\users\electronics\desktop\robotsnooker\mainprocess\include\route.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1460457346 c:\users\electronics\desktop\robotsnooker\mainprocess\include\strat.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"ball.h"
+	"route.h"
+
+1451312947 source:c:\users\electronics\desktop\robotsnooker\mainprocess\src\rs232.cpp
+	"rs232.h"
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	<tchar.h>
+
+1385946556 c:\users\electronics\desktop\robotsnooker\mainprocess\include\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1460456997 source:c:\users\electronics\desktop\robotsnooker\mainprocess\src\targeting.cpp
+	"targeting.h"
+
+1459927783 c:\users\electronics\desktop\robotsnooker\mainprocess\include\targeting.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+
+1464787561 c:\snooker project\mainprocess\include\targeting.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+
+1465366871 source:c:\snooker project\mainprocess\src\targeting.cpp
+	"targeting.h"
+
+1462624392 c:\snooker project\mainprocess\include\borderroute.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1462624148 source:c:\snooker project\mainprocess\src\borderroute.cpp
+	"borderRoute.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1462956278 source:c:\snooker project\mainprocess - עותק (2)\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+	"targeting.h"
+
+1459788246 c:\snooker project\mainprocess - עותק (2)\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1459788246 source:c:\snooker project\mainprocess - עותק (2)\rs232.cpp
+	"RS232.h"
+	<iostream>
+
+1457375581 source:c:\snooker project\mainprocess - עותק (2)\src\ball.cpp
+	"ball.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457375797 source:c:\snooker project\mainprocess - עותק (2)\src\route.cpp
+	"route.h"
+
+1462955439 source:c:\snooker project\mainprocess - עותק (2)\src\strat.cpp
+	"strat.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"borderRoute.h"
+
+1462956278 source:c:\snooker project\mainprocess - עותק (2)\src\targeting.cpp
+	"targeting.h"
+
+1466090955 source:c:\snooker project\robotsnooker last version\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+	"targeting.h"
+
+1459788246 c:\snooker project\robotsnooker last version\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1459788246 source:c:\snooker project\robotsnooker last version\rs232.cpp
+	"RS232.h"
+	<iostream>
+
+1457375581 source:c:\snooker project\robotsnooker last version\src\ball.cpp
+	"ball.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1462624148 source:c:\snooker project\robotsnooker last version\src\borderroute.cpp
+	"borderRoute.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457375797 source:c:\snooker project\robotsnooker last version\src\route.cpp
+	"route.h"
+
+1466162879 source:c:\snooker project\robotsnooker last version\src\strat.cpp
+	"strat.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"borderRoute.h"
+
+1466089801 c:\snooker project\robotsnooker last version\include\strat.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"ball.h"
+	"route.h"
+
+1457375581 c:\snooker project\robotsnooker last version\include\ball.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1462623977 c:\snooker project\robotsnooker last version\include\route.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1466091017 c:\snooker project\robotsnooker last version\include\targeting.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+	"borderRoute.h"
+
+1385946556 c:\snooker project\robotsnooker last version\include\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1462624392 c:\snooker project\robotsnooker last version\include\borderroute.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1466319881 source:c:\snooker project\robotsnooker last version\src\targeting.cpp
+	"targeting.h"
+
+1482488755 source:c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\main.cpp
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+	"targeting.h"
+
+1510919293 c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\include\strat.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"ball.h"
+	"route.h"
+
+1457371981 c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\include\ball.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1462620377 c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\include\route.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1459784646 c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1482488739 c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\include\targeting.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<iostream>
+	<algorithm>
+	<vector>
+	<math.h>
+	"strat.h"
+	"RS232.h"
+	"borderRoute.h"
+
+1385942956 c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\include\rs232.h
+	<cstring>
+	<Windows.h>
+	<cstdio>
+	<termios.h>
+	<sys/ioctl.h>
+	<unistd.h>
+	<fcntl.h>
+	<sys/types.h>
+	<sys/stat.h>
+	<limits.h>
+
+1462620792 c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\include\borderroute.h
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1459784646 source:c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\rs232.cpp
+	"RS232.h"
+	<iostream>
+
+1457371981 source:c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\src\ball.cpp
+	"ball.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1462620548 source:c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\src\borderroute.cpp
+	"borderRoute.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+
+1457372197 source:c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\src\route.cpp
+	"route.h"
+
+1510919286 source:c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\src\strat.cpp
+	"strat.h"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	"opencv2/opencv.hpp"
+	<windows.h>
+	<math.h>
+	<sstream>
+	<algorithm>
+	<math.h>
+	"borderRoute.h"
+
+1510919434 source:c:\raphy\robotsnooker 2015-2016\opencv project\robotsnooker last version\src\targeting.cpp
+	"targeting.h"
+
